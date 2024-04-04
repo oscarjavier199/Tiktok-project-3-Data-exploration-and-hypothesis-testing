@@ -1,4 +1,4 @@
-# TikTok Project III: Data exploration and hypothesis testing**
+# **TikTok Project III: Data exploration and hypothesis testing**
 
 ## Overview
 **The purpose** of this project is to demonstrate knowledge of how to prepare, create, and analyze hypothesis tests, we will also apply descriptive and inferential statistics, probability distributions, and hypothesis testing using Python.
